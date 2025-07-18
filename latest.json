@@ -1,0 +1,9 @@
+{
+  "version": "v2.0.1",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dGhpcyBpcyBhIGZha2Ugc2lnbmF0dXJlIGRhdGEgbGluZSB0ZXN0IG9rCg==",
+      "url": "https://localhost:8443/auto-update/binary/v1/v2.0.1/binary.msi"
+    }
+  }
+}
