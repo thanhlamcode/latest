@@ -1,9 +1,9 @@
 {
-  "version": "v2.0.1",
+  "version": "v5.0.2",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dGhpcyBpcyBhIGZha2Ugc2lnbmF0dXJlIGRhdGEgbGluZSB0ZXN0IG9rCg==",
-      "url": "https://localhost:8443/auto-update/binary/v1/v2.0.1/binary.msi"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSTW1aSFVqQXhjMjl2WjJSMWFrMVhaMk14Y1ZWNVdHTnJNbmhXWmxGUFdteFZkbG93UVM4NE9GUjRNbEU0UVV0dlJtOW9Ua0pvVGtSRVZYVjRNRXRwT1ZwelRUYzVaVzF5ZHpWVVNXTm1OMkpKUmtWTkwyZGpSRnB1ZVdkd1NrRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpVeU9ETTJOakkwQ1dacGJHVTZkR0YxY21rdFlYQndYelV1TUM0eVgzZzJORjlsYmkxVlV5NXRjMmtLWWxOemFFVTJPRkJKZFhocFkwazVURXhsT0VGNlJTdHRlR05CYkVaa1RuWTBkSHBEU1dKSkszRm5SVE5xVVZKQmVFMXlNMlJNUm5SQlNuVkxNRWQ1UTFGMlRVeHBkM0IwZFV4UU5EZzNjVmRyY1hWc1FWRTlQUW89",
+      "url": "https://sys.dev.volt-pos.fastboy.dev/auto-update/binary/v1/v5.0.2/binary.msi"
     }
   }
 }
