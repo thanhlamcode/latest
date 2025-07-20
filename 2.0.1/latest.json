@@ -1,9 +1,9 @@
 {
-  "version": "v5.0.2",
+  "version": "v5.0.15",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb0VuOGVuaFZUNXVOS2MvdjRBUHNyZ2FnM0JIQzB2czRUNmhmT1E3clZmbkdIQ1AvR1MzZDVMMHFRbWo3UHp3enh6SFRSZXk1NzErSDJ5L1JmVUdCMktIb1llRm5PUlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNzI0MTQwCWZpbGU6YmluYXJ5Lm1zaQo0ZkRmT3VicTlUSk5nZXB0M0RzT0tZbFE5VmQ4YzA2QmtqY2krdE9RT3lWMHljK014UzlrNFF2Y1ZzNlVqRGhNUnhHMDlwTTNIVzRXbVdXSTM2R0tCZz09Cg==",
-      "url": "https://sys.dev.volt-pos.fastboy.dev/auto-update/binary/v1/v5.0.2/binary.msi"
+      "url": "https://sys.dev.volt-pos.fastboy.dev/auto-update/binary/v1/v5.0.15/binary.msi"
     }
   }
 }
